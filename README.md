@@ -34,7 +34,7 @@ This is the file content
 
 ![gbl.json](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/gbl.json.jpg) 
 
-Now we want to verify the load function.  
+Now we want to verify the load function.   
 First we make a copy of our source and then delete the source   
 After the load operation the source Global is completely restored    
 ```
