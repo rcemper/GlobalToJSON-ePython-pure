@@ -27,7 +27,7 @@ Open IRIS terminal
 $ docker-compose exec iris iris session iris
 USER>
 USER>; generate JSON object file from Global
-USER>set sc=##class(dc.GblToJSON.ePy).do("^dc.MultiD")
+USER>set sc=##class(dc.GblToJSON.ePure).do("^dc.MultiD")
 USER>
 ```
 This is the file content   
@@ -42,7 +42,7 @@ USER>merge ^keep=^dc.MultiD
 
 USER>kill ^dc.MultiD
 
-USER>set sc=##class(dc.GblToJSON.ePy).load()
+USER>set sc=##class(dc.GblToJSON.ePure).load()
 
 USER>zw sc 
 sc=1
