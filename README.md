@@ -66,7 +66,7 @@ USER>zw ^dc.MultiD
 ^dc.MultiD(5)=$lb("","")
 ^dc.MultiD(5,"mJSON")="{}"
 
-USER>
+USER> 
 ```
 **q.a.d.**   
 ### Code Quality 
