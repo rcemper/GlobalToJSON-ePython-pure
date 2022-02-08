@@ -22,7 +22,7 @@ docker-compose up -d --build
 This is the pre-loaded Global **^dc.MultiD** for testing.
 ![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/Global.JPG)
 
-Open IRIS terminal
+Open IRIS terminal 
 ```
 $ docker-compose exec iris iris session iris
 USER>
