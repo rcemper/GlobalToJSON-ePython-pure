@@ -8,7 +8,7 @@
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.GblToJSON.ePure.CLS"/>
       <Resource Name="dc.MultiDy.GBL"/>
-      <Description>create a JSON Object from Global and with Importer - embdded Python pure</Description>
+      <Description>create a JSON Object from Global and with Importer - embedded Python pure</Description>
       	 <Author>
     			<Person>Robert C. Cemper</Person>
 		    	<CopyrightDate>2022</CopyrightDate>
