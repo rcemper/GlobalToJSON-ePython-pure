@@ -74,4 +74,4 @@ USER>
 
 [Video](https://youtu.be/-QesCoqzWUM)   
 
-[Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython)    
+[Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
