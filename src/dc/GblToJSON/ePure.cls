@@ -76,7 +76,7 @@ with open(file,'r') as fil:
 			break
 	
 		if lin[:7] == '{"gbl":' :
-			glob =  '^X'+lin[7:].split('"')[1]
+			glob =  '^'+lin[7:].split('"')[1]
 			gref=iris.gref(glob)
 			continue
 		lin = lin[1:].replace('\n','')
