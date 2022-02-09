@@ -72,6 +72,6 @@ USER>
 ### Code Quality 
 ![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/CodeQuality.JPG)   
 
-[Video](https://youtu.be/-QesCoqzWUM)   
+[Video](https://youtu.be/kAtna_KU0R8)   
 
 [Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
