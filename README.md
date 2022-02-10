@@ -2,7 +2,7 @@
 Export a Global into a JSON file and re-create it by reloading from this file. ***embeddedPython***    
 refers to the new available technologies. It should be understood as a learning exercise of how to     
 handle the language interfaces. The mayor difference to its predecessor package is:   
-**only embedded Python is used** as a demad of the related contest to demonstrate it is doable.      
+**only embedded Python is used** as a demand of the related contest to demonstrate it is doable.      
 Only Global nodes containing data are presented in the generated JSON file.    
 
 ![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/Globals.png)    
