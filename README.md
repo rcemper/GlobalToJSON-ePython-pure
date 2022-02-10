@@ -19,6 +19,8 @@ Run the IRIS container with your project:
 docker-compose up -d --build
 ```
 ## How to Test it
+
+### ObjectScript Wrapper
 This is the pre-loaded Global **^dc.MultiD** for testing.
 ![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/Global.JPG)
 
@@ -69,6 +71,14 @@ USER>zw ^dc.MultiD
 
 USER> 
 ```
+
+### Python command line
+
+```shell
+cd /irisdev/app/src/Python
+/usr/irissys/bin/irispython ePure.py dump --file /tmp/global.json --glob ^dc.MultiD
+```
+
 **q.a.d.**   
 ### Code Quality 
 ![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/CodeQuality.JPG)   
