@@ -74,9 +74,18 @@ USER>
 
 ### Python command line
 
-```shell
+```
+shell
 cd /irisdev/app/src/Python
 /usr/irissys/bin/irispython ePure.py dump --file /tmp/global.json --glob ^dc.MultiD
+```
+to see the generated file:
+```
+more /tmp/global.json
+```
+to load it
+```
+/usr/irissys/bin/irispython ePure.py load --file /tmp/global.json
 ```
 
 **q.a.d.**   
