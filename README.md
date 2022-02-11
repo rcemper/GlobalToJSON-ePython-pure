@@ -94,4 +94,6 @@ to load it
 
 [Video](https://youtu.be/kAtna_KU0R8)   
 
+[Online Demo](https://gbl-to-json-epure.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)
+
 [Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
