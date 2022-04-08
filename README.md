@@ -89,8 +89,6 @@ to load it
 ```
 
 **q.a.d.**   
-### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/CodeQuality.JPG)   
 
 [Video](https://youtu.be/kAtna_KU0R8)   
 
