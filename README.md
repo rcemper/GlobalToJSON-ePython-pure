@@ -5,7 +5,7 @@ handle the language interfaces. The mayor difference to its predecessor package 
 **only embedded Python is used** as a demand of the related contest to demonstrate it is doable.      
 Only Global nodes containing data are presented in the generated JSON file.    
 
-![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-ePython-pure/master/Globals.png)    
+<img src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-XLA/master/Global.JPG" width="85%">   
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
@@ -97,4 +97,5 @@ to load it
     
 [Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
 
-**CodeQuality** in SCREENSHOTS
+**CodeQuality**    
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1628/screenshots/qnmqqqpqrvxplt9yocbvoelr5g.jpg">
