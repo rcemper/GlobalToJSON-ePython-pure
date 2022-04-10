@@ -5,7 +5,7 @@ handle the language interfaces. The mayor difference to its predecessor package 
 **only embedded Python is used** as a demand of the related contest to demonstrate it is doable.      
 Only Global nodes containing data are presented in the generated JSON file.    
 
-<img src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-XLA/master/Global.JPG" width="85%">   
+<img src="https://openexchange.intersystems.com/mp/img/packages/1756/screenshots/gnjgktp7sism6dssle1glt2l3hc.png" width="65%">
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
