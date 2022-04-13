@@ -89,13 +89,12 @@ to load it
 ```
 
 **q.a.d.**   
-
+    
+[Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
 [Video](https://youtu.be/kAtna_KU0R8)   
 
 [Online Demo Terminal](https://gbl-to-json-epure.demo.community.intersystems.com/terminal/)      
 [Online Demo SMP](https://gbl-to-json-epure.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)
-    
-[Article in DC](https://community.intersystems.com/post/globaltojson-embeddedpython-pure)    
 
 **CodeQuality**    
 <img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1628/screenshots/qnmqqqpqrvxplt9yocbvoelr5g.jpg">
