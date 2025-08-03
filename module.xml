@@ -3,7 +3,7 @@
   <Document name="gbl-to-json-epure.ZPM">
     <Module>
       <Name>gbl-to-json-epure</Name>
-      <Version>0.0.5</Version>
+      <Version>0.0.7</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.GblToJSON.ePure.CLS"/>
