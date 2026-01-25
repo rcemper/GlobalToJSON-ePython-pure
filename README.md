@@ -1,3 +1,6 @@
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b> 
+
 # GlobalToJSON-embeddedPython-pure
 Export a Global into a JSON file and re-create it by reloading from this file. ***embeddedPython***    
 refers to the new available technologies. It should be understood as a learning exercise of how to     
